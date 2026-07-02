@@ -29,7 +29,10 @@
     }
 
     .k-module-content {
-        --panel-color-back: #f5f5f5;
+        --panel-color-back: light-dark(
+            var(--color-gray-100),
+            var(--color-gray-800)
+        );
 
         margin: 0;
         border-top: var(--shadow) solid rgba(0 0 0 / 1%);
