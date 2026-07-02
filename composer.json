@@ -1,0 +1,13 @@
+{
+    "name": "hananils/kirby-modules-layouts",
+    "description": "Layouts for the Modules plugin",
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hana+nils · Büro für Gestaltung",
+            "email": "buero@hananils.de"
+        }
+    ],
+    "require": {}
+}
